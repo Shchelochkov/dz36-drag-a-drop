@@ -1,0 +1,34 @@
+.apple{
+    width: 100px;
+    height: 100px;
+    background-image: url(img/appe.png);
+    background-size: cover;
+    border-radius: 10px;
+    display: inline-block;
+}
+.pear{
+    width: 80px;
+    height: 100px;
+    background-image: url(img/pear.png);
+    background-size: cover;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#area{
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(0, 8, 255);
+    border-radius: 10px;
+    position: absolute;
+    top: 200px;
+}
+#area1{
+    width: 250px;
+    height: 250px;
+    border: 3px solid rgb(219, 199, 20);
+    border-radius: 10px;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
